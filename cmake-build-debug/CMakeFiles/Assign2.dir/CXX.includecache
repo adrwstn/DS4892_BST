@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Assignments/Assign2/binSearchTree.h
+cassert
+-
+cstddef
+-
+functional
+-
+memory
+-
+iostream
+-
+utility
+-
+stack
+-
+
+/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Assignments/Assign2/main.cpp
+binSearchTree.h
+/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Assignments/Assign2/binSearchTree.h
+
